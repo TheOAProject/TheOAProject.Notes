@@ -1,0 +1,6 @@
+@TheOAProject.Notes.API_HostAddress = http://localhost:5056
+
+GET {{TheOAProject.Notes.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
