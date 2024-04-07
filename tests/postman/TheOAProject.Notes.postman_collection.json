@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "9f85192c-6c79-48ad-86c7-f7ffcbb4f9f9",
-		"name": "TheOAProject",
+		"name": "TheOAProject.Notes",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "7330571"
 	},
@@ -90,12 +90,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:5250/api/notes",
+					"raw": "http://localhost:5101/api/notes",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "5250",
+					"port": "5101",
 					"path": [
 						"api",
 						"notes"
