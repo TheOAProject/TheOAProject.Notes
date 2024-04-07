@@ -15,4 +15,6 @@ Azure Build Status (master)/(dev)
 
 GitHub
 
-| master   |  dev   ||----------|-------------|| [![TheOAProject.Notes](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml/badge.svg?branch=master)](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml) | [![TheOAProject.Notes](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml/badge.svg?branch=dev)](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml) |
+| master   |  dev   |
+|----------|-------------|
+| [![TheOAProject.Notes](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml/badge.svg?branch=master)](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml) | [![TheOAProject.Notes](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml/badge.svg?branch=dev)](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml) |
