@@ -1,20 +1,18 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# The OA Project Notes
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## About project
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Сross-platform notes service. This service can be installed on a dedicated VPC server(or deploy a docker image) and used as a personal notes service. The advantages of this service are that it can be used on any platform with instant synchronization.
+
+## Build info
+Azure Build Status (master)/(dev)
+
+| master   |  dev   |
+|----------|-------------|
+| [![Build Status](https://dev.azure.com/o2bionics-products/TheOAProject/_apis/build/status%2FTheOAProject.Notes?branchName=master)](https://dev.azure.com/o2bionics-products/TheOAProject/_build/latest?definitionId=65&branchName=master) | [![Build Status](https://dev.azure.com/o2bionics-products/TheOAProject/_apis/build/status%2FTheOAProject.Notes?branchName=dev)](https://dev.azure.com/o2bionics-products/TheOAProject/_build/latest?definitionId=65&branchName=dev) |
+
+GitHub
+
+| master   |  dev   ||----------|-------------|| [![TheOAProject.Notes](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml/badge.svg?branch=master)](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml) | [![TheOAProject.Notes](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml/badge.svg?branch=dev)](https://github.com/TheOAProject/TheOAProject.Notes/actions/workflows/github-ci.yml) |
